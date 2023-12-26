@@ -1,16 +1,19 @@
-# smart_home_control
+# Smart Home Control
 
-A new Flutter project.
+That app was part of a smart home control system that can control everything in the
+home, including lights and fans. A/C sound system RGB light colours All of these things
+are managed by this app with voice command control using speech-to-text technology.
+The whole project is controlled by Firebase Firestore, and the user can configure or
+add a new item of control with this app and have email, Google, and Facebook logins.
 
-## Getting Started
+Star ⭐ the repo if you like what you see😉.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### How to Install?
+```
+git clone https://github.com/omarabdullah1/smart_home_control.git
+cd smart_home_control
+flutter packages get
+flutter run
+```
+#### Looks
+<img src="./assets/mocups/Presentation.png" />
